@@ -1,2 +1,2 @@
 # MachineLearning
-Consists of machine learning projects
+Contains all basic Machine Learning Algorithms implementation.
